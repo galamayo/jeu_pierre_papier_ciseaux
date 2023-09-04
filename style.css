@@ -1,0 +1,78 @@
+body{
+    
+    background: #CCC6C6;
+
+}
+
+#entete{
+    height: 120px;
+    background: rgba(48, 43, 43, 0.54);
+}
+#img1,#img2,#img3{
+    text-align: center;
+}
+#img1 img,#img3 img,#img2 img{
+    width: 100px;
+    height: 90px;
+    margin-top: 14px;    
+}
+#ecran{
+     width: 1116px;
+     margin-top: 15px;
+     background: #6faa0e;
+}
+#left{
+    text-align: center;
+}
+#center{
+    text-align: center;
+    background: rgb(231, 214, 214);
+    
+}
+#center h1{
+    font-size: 100px;
+    margin-top: 75px;
+
+}
+#right{
+    text-align: center;
+}
+#left img{
+    width: 170px;
+    height: 200px;
+    margin-top: 20px;
+}
+#right img{
+    width: 170px;
+    height: 200px;
+    margin-top: 20px;
+}
+#utili{
+    text-align: center;
+}
+#utilisateur{
+    text-align: center;
+}
+#utilisateur h3{
+    color: yellow;
+}
+#ordinateur{
+    text-align: center;
+}
+#ordinateur h3{
+    color: yellow;
+}
+#tabOrdinateur{
+    width: 100%;
+    color: rgb(236, 35, 35);
+}
+#tabUtilisateur{
+    width: 100%;
+    color: rgb(13, 9, 144);
+}
+#stat{
+    width: 100%;
+}
+#fer h3{
+    text-align: center;
+}
